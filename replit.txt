@@ -1,0 +1,5 @@
+language = "bash"
+run = "sh run.sh"
+
+# The default file opened in the editor.
+entrypoint = "main.cpp"
